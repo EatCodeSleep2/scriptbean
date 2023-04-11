@@ -6,4 +6,4 @@
 </ul>
 
 [Link]: # 'https://discord.gg/D2WHwdYg3D'
-<kbd> <br> [Join the Discord!][Link] <br> </kbd>
+<kbd> <br> [Official Discord][Link] <br> </kbd>
