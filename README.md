@@ -1,6 +1,6 @@
 # BeanHub Docs
 <p>BeanHub Creators:</p>
- ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ [Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 <ul>
   <li>DwWoolaway - <strong>Owner</strong></li>
   <li>Catimyth - <strong>Developer</strong></li>
