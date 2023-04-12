@@ -1,6 +1,6 @@
 # BeanHub Docs
 ![My Remote Image](https://cdn.discordapp.com/attachments/1095345362698510336/1095463949719310397/ScriptBean_Banner0000.jpg?dl=0)
-<h2><p>BeanHub Creators:</p><h2>
+## BeanHub Creators:
  
 <ul>
   <li>DwWoolaway - <strong>Owner</strong></li>
