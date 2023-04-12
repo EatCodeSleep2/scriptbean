@@ -8,4 +8,4 @@
 </ul>
 
 [Link]: # 'https://discord.gg/D2WHwdYg3D'
-<kbd> <br> [Official Discord][Link] <br> </kbd>
+<kbd> <br> [<strong>Official Discord</strong>][Link] <br> </kbd>
