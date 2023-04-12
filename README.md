@@ -1,6 +1,6 @@
 # BeanHub Docs
 <p>BeanHub Creators:</p>
- ![Tux, the Linux mascot](/assets/ScriptBean_Banner0000.jpg)
+ ![Banner](/assets/ScriptBean_Banner0000.jpg "Banners are cool")
 <ul>
   <li>DwWoolaway - <strong>Owner</strong></li>
   <li>Catimyth - <strong>Developer</strong></li>
