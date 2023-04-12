@@ -3,8 +3,8 @@
 ###<p>BeanHub Creators:</p>
  
 <ul>
-  <li>####DwWoolaway - <strong>Owner</strong></li>
-  <li>####Catimyth - <strong>Developer</strong></li>
+  ####<li>DwWoolaway - <strong>Owner</strong></li>
+  ####<li>Catimyth - <strong>Developer</strong></li>
 </ul>
 
 [Link]: # 'https://discord.gg/D2WHwdYg3D'
