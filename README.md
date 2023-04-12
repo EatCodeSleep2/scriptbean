@@ -1,6 +1,6 @@
 # BeanHub Docs
 <p>BeanHub Creators:</p>
- [Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+ ![alt text](https://cdn.discordapp.com/attachments/1095345362698510336/1095463949719310397/ScriptBean_Banner0000.jpg)
 <ul>
   <li>DwWoolaway - <strong>Owner</strong></li>
   <li>Catimyth - <strong>Developer</strong></li>
